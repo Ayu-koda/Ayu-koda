@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi%2C%20I'm%20Ayush&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematics%20%26%20Computing%20%C2%B7%20Web%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18" alt="Ayush banner" width="100%" />
+<img src="banner.png" alt="Hi, I am Ayush" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7C5CFF&center=true&vCenter=true&width=560&lines=B.Tech+Student+at+Delhi+Technological+University;Software+Developer+%7C+Data+Analyst;I+build+things+you+can+actually+click+and+try" alt="Typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7C5CFF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+Delhi+Technological+University;Software+Developer+%7C+Data+Analyst;I+build+things+you+can+actually+click+and+try" alt="Typing animation" /></a>
 
 <br/>
 
@@ -78,7 +78,5 @@
 <div align="center">
 
 📫 Open to internships and collaboration. Reach me on [LinkedIn](https://linkedin.com/in/ayush-9b2826338/) or by [email](mailto:ayushrpvv@gmail.com).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" alt="" width="100%" />
 
 </div>
